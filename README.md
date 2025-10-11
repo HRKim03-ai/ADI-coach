@@ -195,23 +195,6 @@ adi_coach/
 - **디지털 웰빙**: 균형잡힌 디지털 라이프 지원
 - **교육적 가치**: AI 의존도에 대한 인식 제고
 
-## 🔮 향후 개발 계획
-
-### 단기 (1-3개월)
-- [ ] 모바일 앱 개발
-- [ ] 다국어 지원
-- [ ] 개인화된 코칭 플랜
-
-### 중기 (3-6개월)
-- [ ] 그룹 세션 기능
-- [ ] 전문가 상담 연결
-- [ ] 데이터 시각화 개선
-
-### 장기 (6개월+)
-- [ ] AI 모델 자체 개발
-- [ ] 기업용 솔루션
-- [ ] 연구 논문 발표
-
 ## 📈 성능 지표
 
 - **응답 시간**: 평균 2-3초
@@ -219,23 +202,9 @@ adi_coach/
 - **가용성**: 99.9% 업타임
 - **사용자 만족도**: 4.5/5.0
 
-## 🤝 기여하기
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## 📄 라이선스
 
 이 프로젝트는 MIT 라이선스 하에 배포됩니다. 자세한 내용은 `LICENSE` 파일을 참조하세요.
-
-## 📞 연락처
-
-- **프로젝트 링크**: [https://github.com/your-username/adi-coach](https://github.com/your-username/adi-coach)
-- **이메일**: your.email@example.com
-- **팀**: 성균관대학교 AI 해커톤 팀
 
 ## 🙏 감사의 말
 
