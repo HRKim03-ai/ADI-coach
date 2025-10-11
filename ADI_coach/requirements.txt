@@ -1,0 +1,27 @@
+# Core dependencies
+fastapi==0.115.0
+uvicorn==0.30.6
+pydantic==2.9.2
+
+# UI
+streamlit==1.39.0
+plotly==5.17.0
+pandas==2.2.0
+
+# HTTP requests
+requests==2.32.3
+
+# LLM integration
+mistralai==1.2.0
+
+# Authentication & Security
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+python-multipart==0.0.6
+
+# Optional ML dependencies (for future model upgrades)
+transformers==4.44.2
+torch==2.4.1
+scikit-learn==1.5.2
+
+
